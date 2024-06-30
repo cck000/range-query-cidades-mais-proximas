@@ -1,6 +1,6 @@
 /.vscode
 /a.exe
-/build
-/include/avl.h.ghc
 /avl.exe
+/build
 /main.exe
+/output
