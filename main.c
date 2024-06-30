@@ -122,18 +122,16 @@ void interseccao(tbusca *l1, tbusca **res)
 
 void imprime_res(tbusca *res)
 {
-    //tbusca *count = res;
-    //while (count != NULL)
-    //{
+ 
         int x = 1;
         for (tbusca *i = res; i != NULL; i = i->prox)
         {
             printf("%d - NOME: %s | CAPITAL: %d| CODIGO IBGE: %d | DDD: %d | CODIGO UF: %d | LONGITUDE: %.2f | LATITUDE: %.2f | SIAFI ID: %d | FUSO: %s\n",x, i->item->reg->nome_municipio, i->item->reg->capital, i->item->reg->cod_ibge, i->item->reg->ddd, i->item->reg->cod_uf, i->item->reg->longitude, i->item->reg->latitude, i->item->reg->siafi_id, i->item->reg->fuso);
             x++;
         }
-        //count = count->prox;
-    //}
+
 }
+
 void imprime_res2(tbusca *res)
 {
     tbusca *count = res;
