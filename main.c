@@ -122,7 +122,6 @@ void interseccao(tbusca *l1, tbusca **res)
 
 void imprime_res(tbusca *res)
 {
- 
         int x = 1;
         for (tbusca *i = res; i != NULL; i = i->prox)
         {
@@ -245,5 +244,5 @@ int main()
 
     lerjson(&avl_nome, &avl_ddd, &avl_coduf, &avl_longi, &avl_lati);
     interface(&avl_nome, &avl_ddd, &avl_coduf, &avl_longi, &avl_lati);
-
+    /*possui alguns bugs*/
 }
