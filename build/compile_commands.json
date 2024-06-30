@@ -1,0 +1,140 @@
+[
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES -Dcjson_EXPORTS   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -o CMakeFiles\\cjson.dir\\cJSON.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\cJSON.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/cJSON.c",
+  "output": "CMakeFiles/cjson.dir/cJSON.c.obj"
+},
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -o CMakeFiles\\cJSON_test.dir\\test.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\test.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/test.c",
+  "output": "CMakeFiles/cJSON_test.dir/test.c.obj"
+},
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build/tests",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -Wno-error -fvisibility=default -Wno-switch-enum -o CMakeFiles\\unity.dir\\unity\\src\\unity.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\tests\\unity\\src\\unity.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/tests/unity/src/unity.c",
+  "output": "tests/CMakeFiles/unity.dir/unity/src/unity.c.obj"
+},
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build/tests",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -o CMakeFiles\\parse_examples.dir\\parse_examples.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\tests\\parse_examples.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/tests/parse_examples.c",
+  "output": "tests/CMakeFiles/parse_examples.dir/parse_examples.c.obj"
+},
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build/tests",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -o CMakeFiles\\parse_number.dir\\parse_number.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\tests\\parse_number.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/tests/parse_number.c",
+  "output": "tests/CMakeFiles/parse_number.dir/parse_number.c.obj"
+},
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build/tests",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -o CMakeFiles\\parse_hex4.dir\\parse_hex4.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\tests\\parse_hex4.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/tests/parse_hex4.c",
+  "output": "tests/CMakeFiles/parse_hex4.dir/parse_hex4.c.obj"
+},
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build/tests",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -o CMakeFiles\\print_string.dir\\print_string.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\tests\\print_string.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/tests/print_string.c",
+  "output": "tests/CMakeFiles/print_string.dir/print_string.c.obj"
+},
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build/tests",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -o CMakeFiles\\print_value.dir\\print_value.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\tests\\print_value.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/tests/print_value.c",
+  "output": "tests/CMakeFiles/print_value.dir/print_value.c.obj"
+},
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build/tests",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -o CMakeFiles\\parse_array.dir\\parse_array.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\tests\\parse_array.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/tests/parse_array.c",
+  "output": "tests/CMakeFiles/parse_array.dir/parse_array.c.obj"
+},
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build/tests",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -o CMakeFiles\\parse_string.dir\\parse_string.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\tests\\parse_string.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/tests/parse_string.c",
+  "output": "tests/CMakeFiles/parse_string.dir/parse_string.c.obj"
+},
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build/tests",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -o CMakeFiles\\misc_tests.dir\\misc_tests.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\tests\\misc_tests.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/tests/misc_tests.c",
+  "output": "tests/CMakeFiles/misc_tests.dir/misc_tests.c.obj"
+},
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build/tests",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -o CMakeFiles\\print_array.dir\\print_array.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\tests\\print_array.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/tests/print_array.c",
+  "output": "tests/CMakeFiles/print_array.dir/print_array.c.obj"
+},
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build/tests",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -o CMakeFiles\\print_object.dir\\print_object.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\tests\\print_object.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/tests/print_object.c",
+  "output": "tests/CMakeFiles/print_object.dir/print_object.c.obj"
+},
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build/tests",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -o CMakeFiles\\print_number.dir\\print_number.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\tests\\print_number.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/tests/print_number.c",
+  "output": "tests/CMakeFiles/print_number.dir/print_number.c.obj"
+},
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build/tests",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -o CMakeFiles\\parse_value.dir\\parse_value.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\tests\\parse_value.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/tests/parse_value.c",
+  "output": "tests/CMakeFiles/parse_value.dir/parse_value.c.obj"
+},
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build/tests",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -o CMakeFiles\\parse_object.dir\\parse_object.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\tests\\parse_object.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/tests/parse_object.c",
+  "output": "tests/CMakeFiles/parse_object.dir/parse_object.c.obj"
+},
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build/tests",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -o CMakeFiles\\minify_tests.dir\\minify_tests.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\tests\\minify_tests.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/tests/minify_tests.c",
+  "output": "tests/CMakeFiles/minify_tests.dir/minify_tests.c.obj"
+},
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build/tests",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -o CMakeFiles\\readme_examples.dir\\readme_examples.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\tests\\readme_examples.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/tests/readme_examples.c",
+  "output": "tests/CMakeFiles/readme_examples.dir/readme_examples.c.obj"
+},
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build/tests",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -o CMakeFiles\\compare_tests.dir\\compare_tests.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\tests\\compare_tests.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/tests/compare_tests.c",
+  "output": "tests/CMakeFiles/compare_tests.dir/compare_tests.c.obj"
+},
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build/tests",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -o CMakeFiles\\cjson_add.dir\\cjson_add.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\tests\\cjson_add.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/tests/cjson_add.c",
+  "output": "tests/CMakeFiles/cjson_add.dir/cjson_add.c.obj"
+},
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build/tests",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -o CMakeFiles\\parse_with_opts.dir\\parse_with_opts.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\tests\\parse_with_opts.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/tests/parse_with_opts.c",
+  "output": "tests/CMakeFiles/parse_with_opts.dir/parse_with_opts.c.obj"
+},
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build/fuzzing",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -o CMakeFiles\\fuzz_main.dir\\fuzz_main.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\fuzzing\\fuzz_main.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/fuzzing/fuzz_main.c",
+  "output": "fuzzing/CMakeFiles/fuzz_main.dir/fuzz_main.c.obj"
+},
+{
+  "directory": "D:/programcao/cpluplus/trabed2/build/fuzzing",
+  "command": "C:\\MinGW\\bin\\gcc.exe -DCJSON_API_VISIBILITY -DCJSON_EXPORT_SYMBOLS -DENABLE_LOCALES   -std=c89 -pedantic -Wall -Wextra -Werror -Wstrict-prototypes -Wwrite-strings -Wshadow -Winit-self -Wcast-align -Wformat=2 -Wmissing-prototypes -Wstrict-overflow=2 -Wcast-qual -Wundef -Wswitch-default -Wconversion -Wc++-compat -fstack-protector-strong -Wdouble-promotion -Wparentheses -Wunused-macros -Wswitch-enum -fvisibility=hidden -g -o CMakeFiles\\fuzz_main.dir\\cjson_read_fuzzer.c.obj -c D:\\programcao\\cpluplus\\trabed2\\include\\cjson\\fuzzing\\cjson_read_fuzzer.c",
+  "file": "D:/programcao/cpluplus/trabed2/include/cjson/fuzzing/cjson_read_fuzzer.c",
+  "output": "fuzzing/CMakeFiles/fuzz_main.dir/cjson_read_fuzzer.c.obj"
+}
+]

@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "cjson.h": "c",
+        "avl.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "random": "c",
+        "limits": "c"
+    },
+    "cmake.sourceDirectory": "D:/programcao/cpluplus/trabed2/include/cjson"
+}
